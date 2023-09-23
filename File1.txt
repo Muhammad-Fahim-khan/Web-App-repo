@@ -1,3 +1,7 @@
 Hello, I am Muhammad Fahim. I am a mobile and web app developer
+<<<<<<< HEAD
 
 In web app, we use html,javascipt,css;
+=======
+I have 5 year experience in the field of mobile and web application
+>>>>>>> 846b80ec0bcd8c724d31c85e4d916c1306566f2d
